@@ -1,6 +1,5 @@
 dash
 pandas
 plotly
-io
 pymssql
 requests
